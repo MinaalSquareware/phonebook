@@ -1,0 +1,15 @@
+{
+  "strings": {
+  "upload_pic":"Choose profile pic"
+  },
+  "input":{
+    "name":"Name",
+    "enter_name":"Enter Name",
+    "enter_num":"Enter Phone Number",
+    "phone_no":"Phone No.",
+    "enter_correctname":"Please enter valid data."
+  },
+  "button":{
+    "add_phonebook":"Add To Phonebook"
+  }
+}
